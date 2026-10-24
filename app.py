@@ -97,7 +97,7 @@ with gr.Blocks(title="Student Preferences") as demo:
 
     hobbies = gr.Textbox(
         label="Hobbies and Interests",
-        placeholder="e.g., coding, reading, sports",
+        placeholder="e.g., coding, reading, sports,dancing,singing",
         lines=2
     )
 
